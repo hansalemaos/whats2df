@@ -2,6 +2,11 @@
 
 #### Tested against Google Pixel 6 / Windows 10 / Python 3.10
 
+### Tutorial (Brazilian Portuguese)
+
+[![YT](https://i.ytimg.com/vi/KG_xC2TmbDo/maxresdefault.jpg)](https://www.youtube.com/watch?v=KG_xC2TmbDo)
+[https://www.youtube.com/watch?v=KG_xC2TmbDo]()
+
 ```python
 pip install whats2df
 
